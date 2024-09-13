@@ -33,7 +33,7 @@ The dataset used is `Mall_Customers.csv`, which contains customer demographic da
 ### Step 1: Clone the Repository
 Download the project to your local machine:
 
-
+https://github.com/manisha764/Customer_segmentation/blob/main/customer_segmentation_%5B1%5D.py
 
 
 ### Step 2: Install Required Libraries
